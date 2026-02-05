@@ -1,15 +1,15 @@
 {
-	"geode": "$GEODE_VERSION",
+	"geode": "$4.10.2",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
+	"id": "$yelface.tappingfast",
+	"name": "$TappingFast",
+	"version": "$0.1(beta)",
+	"developer": "$Yelface",
 	"description": "$MOD_DESCRIPTION",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
